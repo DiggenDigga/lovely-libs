@@ -1,0 +1,24 @@
+[submodule "anim8"]
+	path = anim8
+	url = https://github.com/kikito/anim8
+[submodule "bump.lua"]
+	path = bump.lua
+	url = https://github.com/kikito/bump.lua
+[submodule "hump"]
+	path = hump
+	url = https://github.com/vrld/hump
+[submodule "animX"]
+	path = animX
+	url = https://github.com/YoungNeer/animX
+[submodule "gamera"]
+	path = gamera
+	url = https://github.com/kikito/gamera
+[submodule "Simple-Tiled-Implementation"]
+	path = Simple-Tiled-Implementation
+	url = https://github.com/karai17/Simple-Tiled-Implementation
+[submodule "tween.lua"]
+	path = tween.lua
+	url = https://github.com/kikito/tween.lua
+[submodule "windfield"]
+	path = windfield
+	url = https://github.com/adnzzzzZ/windfield
